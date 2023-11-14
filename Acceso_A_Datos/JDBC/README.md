@@ -1,6 +1,6 @@
 # JDBC
 ## 0º Descargar la libreria
-[Link de descarga](https://github.com/javiLeL/JDBC/raw/main/mysql-connector-j-8.0.33.jar)
+[Link de descarga](https://github.com/javiLeL/Apuntes/raw/master/Acceso_A_Datos/JDBC/mysql-connector-j-8.0.33.jar)
 ## 1º Paso Crear las conexiones
 Creamos la conexion con la siguiente linea
 ```java
