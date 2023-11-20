@@ -25,6 +25,7 @@ Para crear una animacion en android estudio es necesario crear la animacion dent
 
 ## Ejemplo
 
+- Parte de xml
     ```xml
     <translate
         android:fromXDelta="0%p"
