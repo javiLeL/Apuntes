@@ -23,7 +23,8 @@ Para crear una animacion en android estudio es necesario crear la animacion dent
 | fromDegrees="valor"       | El angulo en el que empieza rotar el objeto           |
 | toDegrees="valor"         | El angulo en el que termina la rotacion del objeto    |
 
-    Ejemplo
+## Ejemplo
+
     ```xml
     <translate
         android:fromXDelta="0%p"
@@ -31,6 +32,7 @@ Para crear una animacion en android estudio es necesario crear la animacion dent
         android:duration = "2000" 
     />  
     ```
+
 - Parte de java
     ```java
     Animation miAnimacion = AnimationUtils.loadAnimation(this, R.anim.animacion);
